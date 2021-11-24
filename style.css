@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+    color:lightblue;
+    background: linear-gradient(#211d1d 0%, #3b44eb 100%);
+  }
+  
+  #h3{
+    text-align:right;
+  }
